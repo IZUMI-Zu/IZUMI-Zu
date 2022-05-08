@@ -18,6 +18,7 @@
 | :----------------------------------------------------------- | ------------------------------------------------------------ |
 
 - 🍻 Student at 🇨🇳 , _BSc in Computer Science_
+- 📫 Email me at: 274620705z@gmail.com
 - 🏃 Sailing / Kayak / Scuba Diving / Windsurfing / Table Tennis / Cycling
 - 🥋 Boxing / Tai Chi
 - ♟ Chinese Chess / Chess 

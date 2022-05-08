@@ -18,7 +18,6 @@
 | :----------------------------------------------------------- | ------------------------------------------------------------ |
 
 - 🍻 Student at 🇨🇳 , _BSc in Computer Science_
-- ⚡ C++ / Python / Golang.
 - 🏃 Sailing / Kayak / Scuba Diving / Windsurfing / Table Tennis / Cycling
 - 🥋 Boxing / Tai Chi
 - ♟ Chinese Chess / Chess 

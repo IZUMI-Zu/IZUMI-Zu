@@ -14,7 +14,7 @@
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=IZUMI-ZU&show_icons=true&count_private=true&include_all_commits=true&theme=buefy&hide_border=true" alt="IZUMI-ZU's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IZUMI-ZU&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats-tawny-nine-40.vercel.app/api?username=IZUMI-ZU&show_icons=true&count_private=true&include_all_commits=true&theme=buefy&hide_border=true" alt="IZUMI-ZU's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IZUMI-ZU&layout=compact&theme=buefy&hide_border=true" /></a> |
 | :----------------------------------------------------------- | ------------------------------------------------------------ |
 
 - 🍻 Student at 🇨🇳 , _BSc in Computer Science_
